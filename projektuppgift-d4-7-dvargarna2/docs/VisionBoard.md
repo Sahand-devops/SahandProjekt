@@ -1,3 +1,0 @@
-VisionBoard
-
-![VisionBoard](vb.png)
