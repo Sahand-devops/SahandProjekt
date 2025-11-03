@@ -1,3 +1,0 @@
-I HistoryController på rad 239 så har vi en metod som heter public String getTimestamp(). När vi kör analyze på den filen så står det att "Method 'getTimestamp()' is never used". Detta stämmer inte och skulle vi ta bort den så skulle vi få massa andra fel och det slutar med att våra tidsstämplar på historiken inte funkar som de ska.
-
-Method 'handleMemoryOperation(double)' is never used. I MemoryControll så står det att denna metod inte används men det stämmer inte för att precis bredvid så står det även att den metoden har 3 usages samt 3 implementations. Skulle vi ta bort denna metod så får vi ytterligare fel.
